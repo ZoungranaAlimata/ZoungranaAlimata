@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zoungrana Alimata
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning PHP,HTML,CSS,MYSQL,CSS,data Analysis
+- 🌱 I’m currently learning PHP,HTML,CSS,MYSQL,data Analysis
 - 💞️ I’m looking to collaborate on DATA scientist,DATA engineer,DATA analyst
 - 📫 How to reach me: https://www.linkedin.com/in/alimata-zoungrana-071274213/
 - 😄 Pronouns: ...
